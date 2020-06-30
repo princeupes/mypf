@@ -1,2 +1,2 @@
-# myportfolio.io
-Personal web page
+# https://princeupes.github.io/mypf/.
+Personal web page 
